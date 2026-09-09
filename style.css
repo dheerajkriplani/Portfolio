@@ -312,7 +312,7 @@ body {
     left: -34px;
     animation: blinker 1s linear infinite;
 }
-.timeline-item:nth-child(2)::before {
+.timeline-item:nth-child(1)::before {
     background-color: black;
     border: 4px solid #0099ff;
     left: -34px;
