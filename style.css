@@ -1139,12 +1139,12 @@ input {
     }
     
     .img {
-        width: 200px;
         position: static;
     }
 
     .img img {
         width: 200px;
+        height: 200px;
     }
 
     .me {
